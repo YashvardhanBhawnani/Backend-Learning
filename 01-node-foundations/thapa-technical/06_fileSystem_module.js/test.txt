@@ -1,0 +1,2 @@
+This is Written Usimg Synchronous File System Module
+This is added using appendFileSync Method
