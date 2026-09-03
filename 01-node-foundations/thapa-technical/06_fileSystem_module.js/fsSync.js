@@ -17,6 +17,5 @@ const fileName = "syncDel.txt";
 // console.log(appendFile);
 
 // Delete a file
-
 const delFile = fs.unlinkSync(fileName);
 console.log(delFile);
