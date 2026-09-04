@@ -1,7 +1,3 @@
-1788536773467 : / New Request Received✅ 1788536870314 : / New Request Received✅ 
-1788536902708 : /about?name=%22yash%22 New Request Received✅ 
-1788536935104 : /about?name=yash New Request Received✅ 
-1788536981287 : /about?name=yash New Request Received✅ 1788537049068 : /about?name=yash New Request Received✅ 
-1788537066937 : /about?name=yash&userId=1 New Request Received✅ 
-1788537141660 : /about?name=yash&userId=1 New Request Received✅ 
-1788537184141 : /about?name=yash&userId=1 New Request Received✅ 
+1788538475111 : GET / New Request Received✅ 
+1788538483030 : GET /about New Request Received✅ 
+1788538495097 : GET /about?name=yash&userId=1 New Request Received✅ 

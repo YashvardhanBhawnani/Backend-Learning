@@ -7,9 +7,9 @@ const server = http.createServer((req, res) => {
   // console.log("New Request Received!");
   if (req.url === "/favicon.ico") return res.end("");
 
-  const log = `${Date.now()} : ${req.url} New Request Received✅ \n`;
+  const log = `${Date.now()} : ${req.method} ${req.url} New Request Received✅ \n`;
   const myUrl = url.parse(req.url, true);
-  console.log(myUrl);
+  // console.log(myUrl);
 
   fs.appendFile("log.txt", log, (err, data) => {
     if (err) console.error(err.message);
@@ -31,3 +31,5 @@ const server = http.createServer((req, res) => {
 server.listen(8000, () => {
   console.log("Server Started! ✅ ");
 });
+
+
