@@ -10,4 +10,5 @@ console.log("Host Name : ",os.hostname());
 console.log("Network Interfaces : ",os.networkInterfaces());
 console.log("Cpu Info : ",os.cpus());
 console.log("Temporary Directory : ",os.tmpdir());
-console.log("Operating System : ",os.type());
+console.log("Operating System : ", os.type());
+console.log(os.cpus().length);
