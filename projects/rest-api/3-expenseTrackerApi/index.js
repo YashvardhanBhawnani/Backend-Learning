@@ -12,7 +12,14 @@ app.use(express.json());
 
 // GET /api/expenses
 app.get("/api/expenses", (req, res) => {
-  return res.status(200).json(expenses);
+  const { category } = req.query;
+  let result = expenses;
+  if (category) {
+    result = result.filter(
+      (expense) => expense.category.toLowerCase() === category.toLowerCase(),
+    );
+  }
+  return res.status(200).json(result);
 });
 
 // GET /api/expenses/summary

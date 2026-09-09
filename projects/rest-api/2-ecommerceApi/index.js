@@ -28,9 +28,7 @@ app.get("/api/products", (req, res) => {
     result = result.filter((product) => product.price <= limit);
   }
   return res.status(200).json(result);
-  return res.json(products);
 });
-
 
 // DELETE / api / products /: id
 // GET /api/products/:id
