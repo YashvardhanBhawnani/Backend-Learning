@@ -11,5 +11,5 @@
     "start": "node --watch index"
   },
   "keywords": [],
-  "type": "commonjs"
+  "type": "module"
 }

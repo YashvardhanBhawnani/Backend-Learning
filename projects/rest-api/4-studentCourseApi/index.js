@@ -10,7 +10,6 @@ app.use(express.json());
 
 // GET /api/courses
 // POST /api/courses
-
 app
   .route("/api/courses")
   .get((req, res) => {
