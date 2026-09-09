@@ -1,0 +1,410 @@
+[
+  {
+    "id": 1,
+    "title": "The Fountainhead",
+    "author": "Izak Verralls",
+    "genre": "Mystery",
+    "status": "to-read",
+    "rating": 4
+  },
+  {
+    "id": 2,
+    "title": "The Great Gatsby",
+    "author": "Waylen Erangy",
+    "genre": "Non-Fiction",
+    "status": "reading",
+    "rating": 1
+  },
+  {
+    "id": 3,
+    "title": "The Great Gatsby",
+    "author": "Coretta Mainwaring",
+    "genre": "Philosophy",
+    "status": "completed",
+    "rating": 5
+  },
+  {
+    "id": 4,
+    "title": "Brave New World",
+    "author": "Rosetta Twelvetrees",
+    "genre": "Philosophy",
+    "status": "completed",
+    "rating": 2
+  },
+  {
+    "id": 5,
+    "title": "Brave New World",
+    "author": "Kissee Theml",
+    "genre": "Non-Fiction",
+    "status": "completed",
+    "rating": 5
+  },
+  {
+    "id": 6,
+    "title": "1984",
+    "author": "Brion Fehner",
+    "genre": "Mystery",
+    "status": "to-read",
+    "rating": 3
+  },
+  {
+    "id": 7,
+    "title": "The Great Gatsby",
+    "author": "Alfi Capes",
+    "genre": "Non-Fiction",
+    "status": "reading",
+    "rating": 5
+  },
+  {
+    "id": 8,
+    "title": "The Fountainhead",
+    "author": "Lilas Kneesha",
+    "genre": "Philosophy",
+    "status": "to-read",
+    "rating": 4
+  },
+  {
+    "id": 9,
+    "title": "To Kill a Mockingbird",
+    "author": "Renata Leguey",
+    "genre": "Sci-Fi",
+    "status": "to-read",
+    "rating": 4
+  },
+  {
+    "id": 10,
+    "title": "Three and a Half Murders",
+    "author": "Taffy Jesse",
+    "genre": "Thriller",
+    "status": "completed",
+    "rating": 4
+  },
+  {
+    "id": 11,
+    "title": "The Fountainhead",
+    "author": "Mason Bysaker",
+    "genre": "Mystery",
+    "status": "reading",
+    "rating": 4
+  },
+  {
+    "id": 12,
+    "title": "1984",
+    "author": "Krystyna Castelain",
+    "genre": "Thriller",
+    "status": "completed",
+    "rating": 2
+  },
+  {
+    "id": 13,
+    "title": "Brave New World",
+    "author": "Melantha Paroni",
+    "genre": "Non-Fiction",
+    "status": "reading",
+    "rating": 5
+  },
+  {
+    "id": 14,
+    "title": "The Great Gatsby",
+    "author": "Alica Welldrake",
+    "genre": "Thriller",
+    "status": "to-read",
+    "rating": 5
+  },
+  {
+    "id": 15,
+    "title": "The Great Gatsby",
+    "author": "Maureene Affron",
+    "genre": "Philosophy",
+    "status": "reading",
+    "rating": 4
+  },
+  {
+    "id": 16,
+    "title": "The Great Gatsby",
+    "author": "Nana Demangel",
+    "genre": "Non-Fiction",
+    "status": "reading",
+    "rating": 1
+  },
+  {
+    "id": 17,
+    "title": "Three and a Half Murders",
+    "author": "Ema Hember",
+    "genre": "Non-Fiction",
+    "status": "reading",
+    "rating": 5
+  },
+  {
+    "id": 18,
+    "title": "Brave New World",
+    "author": "Tracy Leisman",
+    "genre": "Sci-Fi",
+    "status": "reading",
+    "rating": 2
+  },
+  {
+    "id": 19,
+    "title": "The Fountainhead",
+    "author": "Kelcey Erat",
+    "genre": "Philosophy",
+    "status": "completed",
+    "rating": 1
+  },
+  {
+    "id": 20,
+    "title": "To Kill a Mockingbird",
+    "author": "Rana Cobbold",
+    "genre": "Thriller",
+    "status": "completed",
+    "rating": 2
+  },
+  {
+    "id": 21,
+    "title": "The Fountainhead",
+    "author": "Homer Luesley",
+    "genre": "Sci-Fi",
+    "status": "to-read",
+    "rating": 5
+  },
+  {
+    "id": 22,
+    "title": "To Kill a Mockingbird",
+    "author": "Barby Webber",
+    "genre": "Non-Fiction",
+    "status": "reading",
+    "rating": 5
+  },
+  {
+    "id": 23,
+    "title": "Brave New World",
+    "author": "Suzie Neller",
+    "genre": "Non-Fiction",
+    "status": "reading",
+    "rating": 1
+  },
+  {
+    "id": 24,
+    "title": "1984",
+    "author": "Dianne O'Duggan",
+    "genre": "Philosophy",
+    "status": "reading",
+    "rating": 1
+  },
+  {
+    "id": 25,
+    "title": "The Fountainhead",
+    "author": "Aimil Kuhne",
+    "genre": "Sci-Fi",
+    "status": "reading",
+    "rating": 2
+  },
+  {
+    "id": 26,
+    "title": "The Fountainhead",
+    "author": "Paul Yurygyn",
+    "genre": "Sci-Fi",
+    "status": "reading",
+    "rating": 3
+  },
+  {
+    "id": 27,
+    "title": "Brave New World",
+    "author": "Tandi Bosence",
+    "genre": "Non-Fiction",
+    "status": "to-read",
+    "rating": 4
+  },
+  {
+    "id": 28,
+    "title": "The Great Gatsby",
+    "author": "Corabel Rudland",
+    "genre": "Thriller",
+    "status": "to-read",
+    "rating": 4
+  },
+  {
+    "id": 29,
+    "title": "Brave New World",
+    "author": "Regan Iveans",
+    "genre": "Philosophy",
+    "status": "completed",
+    "rating": 4
+  },
+  {
+    "id": 30,
+    "title": "The Fountainhead",
+    "author": "Haydon Feore",
+    "genre": "Sci-Fi",
+    "status": "to-read",
+    "rating": 5
+  },
+  {
+    "id": 31,
+    "title": "Three and a Half Murders",
+    "author": "Gualterio Twinbourne",
+    "genre": "Philosophy",
+    "status": "completed",
+    "rating": 3
+  },
+  {
+    "id": 32,
+    "title": "The Great Gatsby",
+    "author": "Natasha Abadam",
+    "genre": "Mystery",
+    "status": "reading",
+    "rating": 1
+  },
+  {
+    "id": 33,
+    "title": "The Fountainhead",
+    "author": "Danya Bolland",
+    "genre": "Sci-Fi",
+    "status": "reading",
+    "rating": 2
+  },
+  {
+    "id": 34,
+    "title": "1984",
+    "author": "Ivette Probin",
+    "genre": "Non-Fiction",
+    "status": "completed",
+    "rating": 4
+  },
+  {
+    "id": 35,
+    "title": "Brave New World",
+    "author": "Romeo Podbury",
+    "genre": "Mystery",
+    "status": "to-read",
+    "rating": 2
+  },
+  {
+    "id": 36,
+    "title": "The Fountainhead",
+    "author": "Anabella Totaro",
+    "genre": "Thriller",
+    "status": "completed",
+    "rating": 3
+  },
+  {
+    "id": 37,
+    "title": "Three and a Half Murders",
+    "author": "Brian MacMeekan",
+    "genre": "Non-Fiction",
+    "status": "completed",
+    "rating": 1
+  },
+  {
+    "id": 38,
+    "title": "The Great Gatsby",
+    "author": "Bord Muggeridge",
+    "genre": "Philosophy",
+    "status": "completed",
+    "rating": 2
+  },
+  {
+    "id": 39,
+    "title": "Crime and Punishment",
+    "author": "Brandy Pietrzak",
+    "genre": "Sci-Fi",
+    "status": "reading",
+    "rating": 2
+  },
+  {
+    "id": 40,
+    "title": "Three and a Half Murders",
+    "author": "Giorgi Ivers",
+    "genre": "Philosophy",
+    "status": "reading",
+    "rating": 5
+  },
+  {
+    "id": 41,
+    "title": "Crime and Punishment",
+    "author": "Kaitlyn Lampen",
+    "genre": "Sci-Fi",
+    "status": "to-read",
+    "rating": 4
+  },
+  {
+    "id": 42,
+    "title": "Crime and Punishment",
+    "author": "Fredia Roath",
+    "genre": "Mystery",
+    "status": "completed",
+    "rating": 3
+  },
+  {
+    "id": 43,
+    "title": "1984",
+    "author": "Reynold Minet",
+    "genre": "Sci-Fi",
+    "status": "to-read",
+    "rating": 2
+  },
+  {
+    "id": 44,
+    "title": "The Great Gatsby",
+    "author": "Hannah Weedenburg",
+    "genre": "Sci-Fi",
+    "status": "reading",
+    "rating": 2
+  },
+  {
+    "id": 45,
+    "title": "Three and a Half Murders",
+    "author": "Jilli Butt",
+    "genre": "Non-Fiction",
+    "status": "reading",
+    "rating": 1
+  },
+  {
+    "id": 46,
+    "title": "1984",
+    "author": "Georgetta Duigan",
+    "genre": "Mystery",
+    "status": "completed",
+    "rating": 1
+  },
+  {
+    "id": 47,
+    "title": "To Kill a Mockingbird",
+    "author": "Arny Behning",
+    "genre": "Thriller",
+    "status": "completed",
+    "rating": 5
+  },
+  {
+    "id": 48,
+    "title": "The Great Gatsby",
+    "author": "Indira Tranckle",
+    "genre": "Non-Fiction",
+    "status": "completed",
+    "rating": 4
+  },
+  {
+    "id": 49,
+    "title": "1984",
+    "author": "Rafa Claige",
+    "genre": "Philosophy",
+    "status": "completed",
+    "rating": 4
+  },
+  {
+    "id": 50,
+    "title": "The Fountainhead",
+    "author": "Will Rojahn",
+    "genre": "Non-Fiction",
+    "status": "to-read",
+    "rating": 2
+  },
+  {
+    "id": 51,
+    "title": "Not Safe For Work",
+    "author": "Radhika Agarwal",
+    "genre": "Fiction",
+    "status": "Reading",
+    "rating": "3.5"
+  }
+]

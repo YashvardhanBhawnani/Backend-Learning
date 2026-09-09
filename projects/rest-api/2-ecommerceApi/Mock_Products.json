@@ -1,0 +1,716 @@
+[
+  {
+    "id": 1,
+    "name": "Coconut Milk Yogurt",
+    "category": "home",
+    "price": 1966.51,
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "name": "Sweet Potato Mash",
+    "category": "footwear",
+    "price": 1337.47,
+    "inStock": true
+  },
+  {
+    "id": 3,
+    "name": "Sweet Potato Fries",
+    "category": "electronics",
+    "price": 1029.08,
+    "inStock": false
+  },
+  {
+    "id": 4,
+    "name": "Hummus Trio Pack",
+    "category": "clothing",
+    "price": 271.05,
+    "inStock": true
+  },
+  {
+    "id": 5,
+    "name": "Portable Solar Camp Shower",
+    "category": "electronics",
+    "price": 1387.91,
+    "inStock": false
+  },
+  {
+    "id": 6,
+    "name": "Glass Water Bottle",
+    "category": "footwear",
+    "price": 1869.33,
+    "inStock": false
+  },
+  {
+    "id": 7,
+    "name": "Toilet Paper (12 rolls)",
+    "category": "electronics",
+    "price": 356.99,
+    "inStock": false
+  },
+  {
+    "id": 8,
+    "name": "Leather Wallet",
+    "category": "clothing",
+    "price": 1560.6,
+    "inStock": true
+  },
+  {
+    "id": 9,
+    "name": "Roasted Garlic Aioli",
+    "category": "footwear",
+    "price": 1834.34,
+    "inStock": true
+  },
+  {
+    "id": 10,
+    "name": "LED Strip Lights Kit",
+    "category": "electronics",
+    "price": 653.4,
+    "inStock": true
+  },
+  {
+    "id": 11,
+    "name": "Foot Spa Bath Massager",
+    "category": "electronics",
+    "price": 1401.19,
+    "inStock": true
+  },
+  {
+    "id": 12,
+    "name": "Memory Foam Pillow",
+    "category": "footwear",
+    "price": 830.78,
+    "inStock": true
+  },
+  {
+    "id": 13,
+    "name": "BBQ Sauce",
+    "category": "footwear",
+    "price": 713.23,
+    "inStock": true
+  },
+  {
+    "id": 14,
+    "name": "Dried Mango Slices",
+    "category": "clothing",
+    "price": 172.73,
+    "inStock": true
+  },
+  {
+    "id": 15,
+    "name": "Pet Tracking Collar",
+    "category": "electronics",
+    "price": 144.09,
+    "inStock": true
+  },
+  {
+    "id": 16,
+    "name": "Chickpeas",
+    "category": "home",
+    "price": 1296.56,
+    "inStock": true
+  },
+  {
+    "id": 17,
+    "name": "Chocolate Hazelnut Spread",
+    "category": "footwear",
+    "price": 61.2,
+    "inStock": true
+  },
+  {
+    "id": 18,
+    "name": "Kid's Fruit Snacks",
+    "category": "footwear",
+    "price": 1773.62,
+    "inStock": false
+  },
+  {
+    "id": 19,
+    "name": "Compost Bin",
+    "category": "electronics",
+    "price": 1279.3,
+    "inStock": true
+  },
+  {
+    "id": 20,
+    "name": "Couscous Mix",
+    "category": "home",
+    "price": 834.57,
+    "inStock": false
+  },
+  {
+    "id": 21,
+    "name": "Luxury Bath Salts",
+    "category": "home",
+    "price": 703.56,
+    "inStock": false
+  },
+  {
+    "id": 22,
+    "name": "Garden Tool Set with Carrying Bag",
+    "category": "clothing",
+    "price": 290.09,
+    "inStock": false
+  },
+  {
+    "id": 23,
+    "name": "Picnic Blanket",
+    "category": "clothing",
+    "price": 428.19,
+    "inStock": false
+  },
+  {
+    "id": 24,
+    "name": "Hibiscus Tea Bags",
+    "category": "electronics",
+    "price": 1475.16,
+    "inStock": false
+  },
+  {
+    "id": 25,
+    "name": "Gardening Fairy Figurines",
+    "category": "electronics",
+    "price": 1221.88,
+    "inStock": true
+  },
+  {
+    "id": 26,
+    "name": "Raspberry Vanilla Greek Yogurt",
+    "category": "home",
+    "price": 695.7,
+    "inStock": false
+  },
+  {
+    "id": 27,
+    "name": "Customizable Name Plate",
+    "category": "clothing",
+    "price": 1720.55,
+    "inStock": true
+  },
+  {
+    "id": 28,
+    "name": "Warm Knit Beanie",
+    "category": "home",
+    "price": 957.92,
+    "inStock": true
+  },
+  {
+    "id": 29,
+    "name": "Folding Table",
+    "category": "clothing",
+    "price": 1032.42,
+    "inStock": true
+  },
+  {
+    "id": 30,
+    "name": "Outdoor Inflatable Pool",
+    "category": "home",
+    "price": 374.5,
+    "inStock": true
+  },
+  {
+    "id": 31,
+    "name": "Radish Chips",
+    "category": "clothing",
+    "price": 116.93,
+    "inStock": false
+  },
+  {
+    "id": 32,
+    "name": "Backpacking Tent",
+    "category": "home",
+    "price": 1303.01,
+    "inStock": true
+  },
+  {
+    "id": 33,
+    "name": "Sesame Ginger Dressing",
+    "category": "clothing",
+    "price": 1110.19,
+    "inStock": true
+  },
+  {
+    "id": 34,
+    "name": "Kale Salad with Lemon Dressing",
+    "category": "clothing",
+    "price": 1714.84,
+    "inStock": true
+  },
+  {
+    "id": 35,
+    "name": "Mechanical Pencil Set",
+    "category": "footwear",
+    "price": 860.52,
+    "inStock": false
+  },
+  {
+    "id": 36,
+    "name": "Outdoor Camping Lantern",
+    "category": "footwear",
+    "price": 860.57,
+    "inStock": false
+  },
+  {
+    "id": 37,
+    "name": "Sun Protection Clothing",
+    "category": "clothing",
+    "price": 599.5,
+    "inStock": true
+  },
+  {
+    "id": 38,
+    "name": "Safety Pin Dispenser",
+    "category": "clothing",
+    "price": 1742.44,
+    "inStock": false
+  },
+  {
+    "id": 39,
+    "name": "Sour Cream",
+    "category": "electronics",
+    "price": 688.14,
+    "inStock": true
+  },
+  {
+    "id": 40,
+    "name": "Balsamic Vinaigrette",
+    "category": "electronics",
+    "price": 113.27,
+    "inStock": false
+  },
+  {
+    "id": 41,
+    "name": "Digital Food Thermometer",
+    "category": "footwear",
+    "price": 1818.51,
+    "inStock": true
+  },
+  {
+    "id": 42,
+    "name": "Caramelized Onion Dip",
+    "category": "electronics",
+    "price": 984.29,
+    "inStock": false
+  },
+  {
+    "id": 43,
+    "name": "Italian Herb Balsamic Marinade",
+    "category": "electronics",
+    "price": 995.4,
+    "inStock": false
+  },
+  {
+    "id": 44,
+    "name": "Chili Powder",
+    "category": "clothing",
+    "price": 912.62,
+    "inStock": false
+  },
+  {
+    "id": 45,
+    "name": "Kale Caesar Salad Kit",
+    "category": "electronics",
+    "price": 286.02,
+    "inStock": true
+  },
+  {
+    "id": 46,
+    "name": "Organic Quinoa Chips",
+    "category": "home",
+    "price": 895.1,
+    "inStock": false
+  },
+  {
+    "id": 47,
+    "name": "Samsung Galaxy Smartwatch",
+    "category": "footwear",
+    "price": 413.94,
+    "inStock": true
+  },
+  {
+    "id": 48,
+    "name": "Wall-Mounted Organizer",
+    "category": "clothing",
+    "price": 1035.93,
+    "inStock": false
+  },
+  {
+    "id": 49,
+    "name": "Zesty Cilantro Lime Dressing",
+    "category": "home",
+    "price": 1052.97,
+    "inStock": false
+  },
+  {
+    "id": 50,
+    "name": "Organic Coconut Flakes",
+    "category": "clothing",
+    "price": 1997.47,
+    "inStock": false
+  },
+  {
+    "id": 51,
+    "name": "Electric Rice Cooker with Steamer",
+    "category": "clothing",
+    "price": 69.76,
+    "inStock": false
+  },
+  {
+    "id": 52,
+    "name": "Chocolate Chip Cookie Mix",
+    "category": "footwear",
+    "price": 598.28,
+    "inStock": false
+  },
+  {
+    "id": 53,
+    "name": "Chocolate Raspberry Tart",
+    "category": "electronics",
+    "price": 772,
+    "inStock": true
+  },
+  {
+    "id": 54,
+    "name": "Premium Flashlight",
+    "category": "footwear",
+    "price": 75.25,
+    "inStock": false
+  },
+  {
+    "id": 55,
+    "name": "Oven Mitts with Pocket",
+    "category": "clothing",
+    "price": 1137.18,
+    "inStock": false
+  },
+  {
+    "id": 56,
+    "name": "Spinach Artichoke Dip",
+    "category": "footwear",
+    "price": 383.27,
+    "inStock": true
+  },
+  {
+    "id": 57,
+    "name": "Knitted Infinity Scarf",
+    "category": "home",
+    "price": 1832.33,
+    "inStock": false
+  },
+  {
+    "id": 58,
+    "name": "Mediterranean Flatbread",
+    "category": "home",
+    "price": 123.65,
+    "inStock": false
+  },
+  {
+    "id": 59,
+    "name": "Field Journal",
+    "category": "footwear",
+    "price": 1960.05,
+    "inStock": false
+  },
+  {
+    "id": 60,
+    "name": "Elderberry Syrup Kit",
+    "category": "home",
+    "price": 208.13,
+    "inStock": true
+  },
+  {
+    "id": 61,
+    "name": "Insulated Lunch Box",
+    "category": "electronics",
+    "price": 445.9,
+    "inStock": false
+  },
+  {
+    "id": 62,
+    "name": "Fitness Resistance Bands Set",
+    "category": "clothing",
+    "price": 1988.36,
+    "inStock": false
+  },
+  {
+    "id": 63,
+    "name": "Summer Tank Dress",
+    "category": "electronics",
+    "price": 664.31,
+    "inStock": true
+  },
+  {
+    "id": 64,
+    "name": "Peach Green Tea",
+    "category": "home",
+    "price": 223.21,
+    "inStock": false
+  },
+  {
+    "id": 65,
+    "name": "Sweet Potato & Kale Hash",
+    "category": "clothing",
+    "price": 1337.56,
+    "inStock": false
+  },
+  {
+    "id": 66,
+    "name": "Luxe Velvet Blazer",
+    "category": "electronics",
+    "price": 1298.17,
+    "inStock": false
+  },
+  {
+    "id": 67,
+    "name": "Reusable Snack Bags",
+    "category": "footwear",
+    "price": 1960.02,
+    "inStock": false
+  },
+  {
+    "id": 68,
+    "name": "Outdoor Adventure Backpack",
+    "category": "clothing",
+    "price": 432.75,
+    "inStock": false
+  },
+  {
+    "id": 69,
+    "name": "Barbecue Chicken Pizza",
+    "category": "clothing",
+    "price": 985.58,
+    "inStock": true
+  },
+  {
+    "id": 70,
+    "name": "Jennifer's Amazing Lip Balm Kit",
+    "category": "footwear",
+    "price": 1836.8,
+    "inStock": false
+  },
+  {
+    "id": 71,
+    "name": "Cucumber",
+    "category": "home",
+    "price": 1075.84,
+    "inStock": true
+  },
+  {
+    "id": 72,
+    "name": "Roasted Red Pepper Hummus",
+    "category": "clothing",
+    "price": 709.11,
+    "inStock": true
+  },
+  {
+    "id": 73,
+    "name": "First Aid Kit",
+    "category": "electronics",
+    "price": 1628.33,
+    "inStock": false
+  },
+  {
+    "id": 74,
+    "name": "Garlic Herb Marinade",
+    "category": "footwear",
+    "price": 1281.67,
+    "inStock": true
+  },
+  {
+    "id": 75,
+    "name": "Vegetable Fried Rice Mix",
+    "category": "clothing",
+    "price": 945.96,
+    "inStock": false
+  },
+  {
+    "id": 76,
+    "name": "Almond Joy Protein Bars",
+    "category": "electronics",
+    "price": 1719.58,
+    "inStock": false
+  },
+  {
+    "id": 77,
+    "name": "Mayonnaise",
+    "category": "home",
+    "price": 435.3,
+    "inStock": false
+  },
+  {
+    "id": 78,
+    "name": "Coconut Yogurt",
+    "category": "home",
+    "price": 404.06,
+    "inStock": true
+  },
+  {
+    "id": 79,
+    "name": "Carrot Ginger Soup",
+    "category": "clothing",
+    "price": 552.9,
+    "inStock": true
+  },
+  {
+    "id": 80,
+    "name": "Printed Maxi Skirt",
+    "category": "home",
+    "price": 1201.76,
+    "inStock": true
+  },
+  {
+    "id": 81,
+    "name": "Teriyaki Beef Strips",
+    "category": "electronics",
+    "price": 867.92,
+    "inStock": false
+  },
+  {
+    "id": 82,
+    "name": "Stuffed Peppers with Quinoa",
+    "category": "footwear",
+    "price": 149.16,
+    "inStock": false
+  },
+  {
+    "id": 83,
+    "name": "Luxury Memory Foam Mattress Topper",
+    "category": "footwear",
+    "price": 1549.72,
+    "inStock": true
+  },
+  {
+    "id": 84,
+    "name": "Training Soccer Ball",
+    "category": "footwear",
+    "price": 1289.89,
+    "inStock": true
+  },
+  {
+    "id": 85,
+    "name": "Gluten-Free Biscuits",
+    "category": "home",
+    "price": 1830.3,
+    "inStock": true
+  },
+  {
+    "id": 86,
+    "name": "Herb Garlic Butter",
+    "category": "electronics",
+    "price": 936.17,
+    "inStock": false
+  },
+  {
+    "id": 87,
+    "name": "Luxury Yoga Mat",
+    "category": "electronics",
+    "price": 1034.19,
+    "inStock": false
+  },
+  {
+    "id": 88,
+    "name": "Classic Minestrone Soup",
+    "category": "home",
+    "price": 769.42,
+    "inStock": false
+  },
+  {
+    "id": 89,
+    "name": "Honey Wheat Pretzels",
+    "category": "electronics",
+    "price": 946.74,
+    "inStock": true
+  },
+  {
+    "id": 90,
+    "name": "Adjustable Kitchen Broom Stand",
+    "category": "footwear",
+    "price": 914.91,
+    "inStock": false
+  },
+  {
+    "id": 91,
+    "name": "Rechargeable Electric Screwdriver",
+    "category": "home",
+    "price": 886.67,
+    "inStock": true
+  },
+  {
+    "id": 92,
+    "name": "Strawberry Banana Smoothie Pack",
+    "category": "clothing",
+    "price": 1172.08,
+    "inStock": false
+  },
+  {
+    "id": 93,
+    "name": "Pet Safety Harness",
+    "category": "clothing",
+    "price": 294.97,
+    "inStock": true
+  },
+  {
+    "id": 94,
+    "name": "Peanut Butter Pretzel Nuggets",
+    "category": "clothing",
+    "price": 1998.83,
+    "inStock": false
+  },
+  {
+    "id": 95,
+    "name": "Sweet Potato Tots",
+    "category": "clothing",
+    "price": 650.23,
+    "inStock": true
+  },
+  {
+    "id": 96,
+    "name": "Italian Herbal Seasoning",
+    "category": "footwear",
+    "price": 1849.74,
+    "inStock": true
+  },
+  {
+    "id": 97,
+    "name": "Honey",
+    "category": "electronics",
+    "price": 1623.45,
+    "inStock": true
+  },
+  {
+    "id": 98,
+    "name": "Solar Charger",
+    "category": "home",
+    "price": 1161.43,
+    "inStock": true
+  },
+  {
+    "id": 99,
+    "name": "Vegan Mayonnaise",
+    "category": "electronics",
+    "price": 1738.99,
+    "inStock": true
+  },
+  {
+    "id": 100,
+    "name": "Memory Foam Pillow",
+    "category": "clothing",
+    "price": 458.57,
+    "inStock": false
+  },
+  {
+    "id": 101,
+    "name": "Mechanical Keyboard",
+    "category": "electronics",
+    "price": 89.99,
+    "inStock": true
+  },
+  {
+    "id": 102,
+    "name": "Wireless Mouse",
+    "category": "electronics",
+    "price": 29.99,
+    "inStock": true
+  }
+]
