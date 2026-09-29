@@ -11,14 +11,23 @@ app.use(express.urlencoded({ extended: false }));
 // rest api routes
 
 // GET /api/books
-app.get("/api/books", (req, res) => {
-  return res.json(books);
-});
+// POST /api/books
+app
+  .route("/api/books")
+  .get((req, res) => {
+    return res.json(books);
+  })
+  .post((req, res) => {
+    const body = req.body;
+    books.push({ id: books.length + 1, ...body });
+    fs.writeFile("./MOCK_DATA.json", JSON.stringify(books), (data) => {
+      return res.json({ status: "success", id: books.length });
+    });
+  });
 
 /* GET /api/books/:id
 PATCH /api/books/:id
 DELETE /api/books/:id */
-
 app
   .route("/api/books/:id")
   .get((req, res) => {
@@ -66,15 +75,6 @@ app
       return res.json({ status: "success", deletedId: id });
     });
   });
-
-// POST /api/books
-app.post("/api/books", (req, res) => {
-  const body = req.body;
-  books.push({ id: books.length + 1, ...body });
-  fs.writeFile("./MOCK_DATA.json", JSON.stringify(books), (data) => {
-    return res.json({ status: "success", id: books.length });
-  });
-});
 
 app.listen(PORT, () => {
   console.log("Server Started At Port 3000!");
