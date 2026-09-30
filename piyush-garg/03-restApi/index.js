@@ -8,6 +8,13 @@ const PORT = 3000;
 // middleware
 app.use(express.urlencoded({ extended: false }));
 
+// custom middleware
+app.use((req, res, next) => {
+  console.log("This is custom middleware");
+  // return res.json({ msg: "This is custom middleware" });
+  next();
+});
+
 // routes
 app.get("/users", (req, res) => {
   const html = `
@@ -20,6 +27,8 @@ app.get("/users", (req, res) => {
 
 // rest api routes
 app.get("/api/users", (req, res) => {
+  // res.setHeader("myname", "yash"); custom header
+  console.log(req.headers);
   return res.json(users);
 });
 
@@ -53,7 +62,7 @@ app.post("/api/users", (req, res) => {
   const body = req.body;
   users.push({ id: users.length + 1, ...body });
   fs.writeFile("./MOCK_DATA.json", JSON.stringify(users), (err, data) => {
-    return res.json({ status: "success", id: users.length });
+    return res.status(201).json({ status: "success", id: users.length });
   });
 });
 
