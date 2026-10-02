@@ -1,0 +1,17 @@
+{
+  "name": "6-urlshortner",
+  "version": "1.0.0",
+  "description": "this is url shortner project",
+  "author": "yashvardhan bhawnani",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch index"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.10.3",
+    "nanoid": "^6.0.1"
+  }
+}
